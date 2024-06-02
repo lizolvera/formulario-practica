@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(156, 235, 20);
+    
+}
+.par1{
+    text-transform: uppercase;
+}
+
+form{
+    background:palevioletred;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+fieldset{
+    border: 5px solid violet ;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+label{
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: maroon;
+}
